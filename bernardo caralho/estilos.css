@@ -1,0 +1,13 @@
+nav{
+	z-index: 10;
+	width:100%;
+	position:fixed;
+	left: 5px;
+	top: 0px;
+background-color: #efefef;
+
+}
+
+li{
+display: inline;
+margin-left: 150px;}

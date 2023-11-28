@@ -1,0 +1,41 @@
+nav{
+	z-index: 10;
+	width:100%;
+	position:fixed;
+	left: 5px;
+	top: 0px;
+background-color: #efefef;
+
+}
+
+li{
+display: inline;
+margin-left: 150px;}
+
+p {
+	position:relative;
+left: 20px;
+border: 5px;
+}
+
+input{
+	border-bottom: 3px dotted #dcdcdc;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	padding: 5px;
+	width: 280px;
+	margin-bottom: 20px;
+}
+
+input {
+	border: 1px dotted #dcdcdc;
+outline: none;}
+
+input {
+	color: #ffffff;
+	background-color: #665544;
+	border: none;
+	border-radius: 5x;
+	width: 5px:
+}

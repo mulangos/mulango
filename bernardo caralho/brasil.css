@@ -1,0 +1,65 @@
+body{
+width: 750px;
+position:relative;
+}
+h1{
+	position:relative;
+	left: 600px;
+	top: 100px;
+	padding : 20px;
+	}
+
+h1#brasil{
+	position:relative;
+	float: left;
+	left: 65%;
+}	
+	
+h2,p{
+	top: 40px;
+	position:relative;
+	width: 400px;
+	
+}
+p#surg{
+	background-color: efefef;
+	position:relative;
+	left: 550px;
+	float: left;
+	width: 550px;
+	margin: 10px 10px 10px 10px;
+	padding: 40px;
+}
+p#brs{
+	position:relative;
+	left:590px;
+	float: left;
+	
+	
+}
+
+nav{
+	z-index: 10;
+	width:100%;
+	position:fixed;
+	left: 5px;
+	top: 0px;
+background-color: #efefef;
+
+}
+
+li{
+display: inline;
+margin-left: 150px;}
+
+img{
+float: right;
+width: 400px;
+}
+
+p#novo{
+	position:realtive;
+	;
+}
+	
+	
